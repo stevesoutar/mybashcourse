@@ -1,2 +1,2 @@
 # mybashcourse
-My Bash course on Udemy
+My Bash course on Codeacademy
